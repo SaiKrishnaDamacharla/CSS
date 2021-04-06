@@ -1,0 +1,21 @@
+p{
+  color: red;
+}
+#site{
+  color: blue;
+  background: green;
+  border: 1px solid black;
+}
+body{
+  background-color: gray ;
+}
+h1{
+  background: orange;
+  border: 2px solid black;
+}
+#fback{
+  background-color: yellow;
+}
+.About{
+  background-color: red;
+}

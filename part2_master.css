@@ -1,0 +1,10 @@
+body{
+  background: url(https://image.shutterstock.com/image-photo/mountains-under-mist-morning-amazing-260nw-1725825019.jpg);
+background-repeat: no-repeat;
+}
+div{
+  background: red;
+  border-color: orange;
+  border-width: 5px;
+  border-style: double;
+}
